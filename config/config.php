@@ -1,3 +1,3 @@
 <?php
-    $conn = mysqli_connect("localhost","root","","") or die("error");
+    $conn = mysqli_connect("localhost","root","","inserts") or die("error");
 ?>
